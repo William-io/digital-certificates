@@ -17,6 +17,10 @@
 
 [Introdução ao C# e Imersão ao .NET Framework](https://balta.io/certificados/0ff6375f-8423-4eff-a707-1f2216a81781)
 
+[Web API ASP .NET Core Essencial](https://www.udemy.com/certificate/UC-d3657a07-e389-40f8-8535-a46f98e04a7f/)
+
+[C# COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/certificate/UC-f3fb4b47-54f6-41a9-bf95-4cd2566b1d82/)
+
 
 
 
