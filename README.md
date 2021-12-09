@@ -22,6 +22,23 @@
 
 [C# COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/certificate/UC-f3fb4b47-54f6-41a9-bf95-4cd2566b1d82/)
 
+[Impacta, Full-Stack](https://github.com/William-io/digital-certificates/blob/main/1638557969%5B4562%5D.pdf)
+
+[MoveOn, Soft skills](https://github.com/William-io/digital-certificates/blob/main/Certificado%20Freshers%20-William%20Silva%5B1260%5D.pdf)
+
+[Ciência de Dados](https://github.com/William-io/digital-certificates/blob/main/certificate-introducao-a-ciencia-de-dados-30-61081f20e32fc3306067d375.pdf)
+
+[ .NET 6 WEB API](https://www.udemy.com/certificate/UC-abec3b4d-115f-474e-bbef-b1a746f4fd0f/)
+
+[ C# - Aplicando Princípios SOLID](https://www.udemy.com/certificate/UC-6dc30584-1764-493b-88ea-6259d3c1846e/)
+
+[Criando um TodoApp com ASP.NET Core, Firebase, Angular e Flutter](https://balta.io/certificados/52c5f8f0-9456-4b7d-8cf9-d943f8ed74cc)
+
+[Fundamentos de Entity](https://balta.io/certificados/cb75db37-029a-4d50-9eba-657c97569b29)
+
+[API node](https://balta.io/certificados/d6b8aaa1-2d27-4a17-b141-fb1e571a1cdc)
+
+
 
 
 
