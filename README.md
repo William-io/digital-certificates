@@ -38,6 +38,8 @@
 
 [API node](https://balta.io/certificados/d6b8aaa1-2d27-4a17-b141-fb1e571a1cdc)
 
+[balta.io Dev Experience 2021](https://baltaio.blob.core.windows.net/static/images/experience/2021/certificates/5f0dc0af-4099-7219-6c1a-a27b00000000-experience.png)
+
 
 
 
