@@ -1,5 +1,7 @@
 ## Certificates
 
+[Fundamentos do SQL Server](https://balta.io/certificados/a8d6e584-9226-4f37-a7d7-9db1cd7ef8b5)
+
 [Criando APIs com ASP.NET Core 2.0 e Dappe](https://balta.io/certificados/2bdb46a8-dbc1-4bae-b568-6839258bca85)
 
 [Lógica de programação com Dart](https://balta.io/certificados/da7aa9ce-22d1-493f-a998-c81fafb6af2e)
