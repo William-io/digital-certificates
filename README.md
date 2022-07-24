@@ -1,6 +1,6 @@
 ## Certificates
 
-11-07-22 | [Fundamentos do SQL Server](https://balta.io/certificados/a8d6e584-9226-4f37-a7d7-9db1cd7ef8b5)
+[Fundamentos do SQL Server](https://balta.io/certificados/a8d6e584-9226-4f37-a7d7-9db1cd7ef8b5)
 
 [Criando APIs com ASP.NET Core 2.0 e Dappe](https://balta.io/certificados/2bdb46a8-dbc1-4bae-b568-6839258bca85)
 
