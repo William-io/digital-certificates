@@ -1,5 +1,9 @@
 ## Certificates
 
+[ JavaScript - The Complete Guide 2022 (Beginner + Advanced)](https://www.udemy.com/certificate/UC-da53ebdc-c097-4ab6-a507-d3d2dc452624)
+
+[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/certificate/UC-806cef6b-f58e-4a76-8a67-2b85537a1318)
+
 [Fundamentos do SQL Server](https://balta.io/certificados/a8d6e584-9226-4f37-a7d7-9db1cd7ef8b5)
 
 [Criando APIs com ASP.NET Core 2.0 e Dappe](https://balta.io/certificados/2bdb46a8-dbc1-4bae-b568-6839258bca85)
