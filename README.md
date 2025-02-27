@@ -18,6 +18,7 @@
 14. [balta.io Dev Experience 2021](https://baltaio.blob.core.windows.net/static/images/experience/2021/certificates/5f0dc0af-4099-7219-6c1a-a27b00000000-experience.png)
 15. [Progressive Web Apps com Blazor Web Assembly](https://balta.io/certificados/dcaf19fc-107b-4d63-ae93-88a5abd9bcfc)
 16. [Fundamentos do Blazor com .NET 8](https://balta.io/certificados/6bf6ba8e-1330-4e54-a05a-d7e73616c7cb)
+17. [27/02/2025 Arquitetura Limpa com .NET](https://balta.io/certificados/f5574f7d-3f27-489d-9da1-624a8710519b)
 
 ### Certificados Udemy
 
