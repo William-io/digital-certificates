@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary><strong>Udemy</strong></summary>
+<summary><strong>Udemy</strong></summary>&nbsp
   
 1. [JavaScript - The Complete Guide 2022 (Beginner + Advanced)](https://www.udemy.com/certificate/UC-da53ebdc-c097-4ab6-a507-d3d2dc452624)
 2. [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/certificate/UC-806cef6b-f58e-4a76-8a67-2b85537a1318)
@@ -36,7 +36,7 @@
 </details>
 
 <details>
-<summary><strong>Pluralsight</strong></summary>
+<summary><strong>Pluralsight</strong></summary>&nbsp
 
 1. [Node.js and Express Foundations](https://github.com/user-attachments/assets/0bce683b-f429-42fe-b461-2a671d3dc03d)
 2. [Python 3: The Big Picture](https://github.com/user-attachments/assets/f622d10b-969b-43f5-bc08-ce12ecb3034c)
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-<summary><strong>Outros</strong></summary>
+<summary><strong>Outros</strong></summary>&nbsp
 
 1. [Impacta, Full-Stack](https://github.com/William-io/digital-certificates/blob/main/1638557969%5B4562%5D.pdf)
 2. [MoveOn, Soft skills](https://github.com/William-io/digital-certificates/blob/main/Certificado%20Freshers%20-William%20Silva%5B1260%5D.pdf)
