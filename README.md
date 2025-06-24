@@ -1,5 +1,15 @@
 ### Certificados de conclusão
 
+
+<details>
+<summary><strong>Milan Jovanović - TECH</strong></summary>&nbsp
+
+1. [Pragmatic Clean Architecture - Building production-ready applications with Clean Architecture](https://github.com/William-io/digital-certificates/blob/main/1750612081484.pdf)
+2. [Modular Monolith Architecture - Building amazing systems with Modular Monolith Architecture](https://github.com/William-io/digital-certificates/blob/main/1750612186642%20(1).pdf)
+
+</details>
+
+
 <details>
 <summary><strong>Balta.io - Formação ASP.NET</strong></summary>&nbsp
   
