@@ -1,6 +1,28 @@
-### Certificados de conclusão
+### Lista de certificados de conclusão
 
-<details>
+
+<details open>
+<summary><strong>Alura</strong></summary>&nbsp
+
+| Data de conclusão | Link do certificado |
+|-------------------|--------------------|
+| 23/08/2019        | [Iniciante em Programação](https://cursos.alura.com.br/degree/certificate/7139d9b0-71d8-434b-a922-344c6271dcd6?lang=pt_BR) |
+| 11/11/2019        | [Formação C# e orientação a objetos](https://cursos.alura.com.br/degree/certificate/05a2e86c-38af-4f34-80b9-c31fc21f3de4?lang=pt_BR) |
+
+</details>
+
+<details open>
+<summary><strong>Milan Jovanović - TECH</strong></summary>&nbsp
+
+| Data de conclusão | Link do certificado |
+|-------------------|--------------------|
+| 15/08/2023        | [Pragmatic Clean Architecture - Building production-ready applications with Clean Architecture](https://github.com/William-io/digital-certificates/blob/main/1750612081484.pdf) |
+| 30/01/2025        | [Modular Monolith Architecture - Building amazing systems with Modular Monolith Architecture](https://github.com/William-io/digital-certificates/blob/main/1750612186642%20(1).pdf) |
+
+</details>
+
+
+<details open>
 <summary><strong>Balta.io - Formação ASP.NET</strong></summary>&nbsp
 
 | Data de conclusão                        | Link do certificado                                                                                                                                          |
@@ -25,4 +47,38 @@
 
 </details>
 
-(Todas as demais sections ficam intactas e posso atualizar depois caso deseje, mas por padrão a ordenação por datas está nesse bloco acima!)
+<details open>
+<summary><strong>Udemy</strong></summary>&nbsp
+
+| Data de conclusão | Link do certificado |
+|-------------------|--------------------|
+| 02/10/2020        | [C# COMPLETO Programação Orientada a Objetos + Projetos](https://www.udemy.com/certificate/UC-f3fb4b47-54f6-41a9-bf95-4cd2566b1d82/) |
+| 30/07/2021        | [Web API ASP .NET Core Essencial](https://www.udemy.com/certificate/UC-d3657a07-e389-40f8-8535-a46f98e04a7f/) |
+| 30/11/2021        | [.NET 6 WEB API](https://www.udemy.com/certificate/UC-abec3b4d-115f-474e-bbef-b1a746f4fd0f/) |
+| 09/12/2021        | [C# - Aplicando Princípios SOLID](https://www.udemy.com/certificate/UC-6dc30584-1764-493b-88ea-6259d3c1846e/) |
+| 10/08/2022        | [JavaScript - The Complete Guide 2022 (Beginner + Advanced)](https://www.udemy.com/certificate/UC-da53ebdc-c097-4ab6-a507-d3d2dc452624) |
+| 12/08/2022        | [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/certificate/UC-806cef6b-f58e-4a76-8a67-2b85537a1318) |
+
+</details>
+
+<details open>
+<summary><strong>Pluralsight</strong></summary>&nbsp
+
+| Data de conclusão | Link do certificado |
+|-------------------|--------------------|
+| 21/04/2024        | [ASP.NET Core Web API Fundamentals](https://github.com/user-attachments/assets/392840e4-04f9-4949-abe5-6270d85f105a) |
+| 05/05/2024        | [Clean Architecture: Patterns, Practices, and Principles](https://github.com/user-attachments/assets/61ea03cb-f67e-479b-8261-e5f528b9bcb2) |
+| 02/12/2024        | [Microsoft Azure Fundamentals (AZ-900): Foundational Cloud Concepts](https://github.com/user-attachments/assets/7d44f38f-05c6-4af8-b36d-134c27836df9) |
+| 02/02/2025        | [Python 3: The Big Picture](https://github.com/user-attachments/assets/f622d10b-969b-43f5-bc08-ce12ecb3034c) |
+| 04/02/2025        | [Node.js and Express Foundations](https://github.com/user-attachments/assets/0bce683b-f429-42fe-b461-2a671d3dc03d) |
+
+</details>
+
+<details open>
+<summary><strong>Outros</strong></summary>&nbsp
+
+1. [Impacta, Full-Stack](https://github.com/William-io/digital-certificates/blob/main/1638557969%5B4562%5D.pdf)
+2. [MoveOn, Soft skills](https://github.com/William-io/digital-certificates/blob/main/Certificado%20Freshers%20-William%20Silva%5B1260%5D.pdf)
+3. [Ciência de Dados](https://github.com/William-io/digital-certificates/blob/main/certificate-introducao-a-ciencia-de-dados-30-61081f20e32fc3306067d375.pdf)
+
+</details>
