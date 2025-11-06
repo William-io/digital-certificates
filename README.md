@@ -1,11 +1,13 @@
 ### Certificados de conclusão
 
+> **Nota:** As datas de conclusão dos certificados PDF foram extraídas automaticamente. Para os certificados online (Balta.io, Udemy, Pluralsight), as datas precisam ser verificadas acessando cada link diretamente.
+
 
 <details>
 <summary><strong>Milan Jovanović - TECH</strong></summary>&nbsp
 
-1. [Pragmatic Clean Architecture - Building production-ready applications with Clean Architecture](https://github.com/William-io/digital-certificates/blob/main/1750612081484.pdf)
-2. [Modular Monolith Architecture - Building amazing systems with Modular Monolith Architecture](https://github.com/William-io/digital-certificates/blob/main/1750612186642%20(1).pdf)
+1. [Pragmatic Clean Architecture - Building production-ready applications with Clean Architecture](https://github.com/William-io/digital-certificates/blob/main/1750612081484.pdf) - **Concluído em: 15/08/2023**
+2. [Modular Monolith Architecture - Building amazing systems with Modular Monolith Architecture](https://github.com/William-io/digital-certificates/blob/main/1750612186642%20(1).pdf) - **Concluído em: 30/01/2025**
 
 </details>
 
@@ -59,8 +61,8 @@
 <details>
 <summary><strong>Outros</strong></summary>&nbsp
 
-1. [Impacta, Full-Stack](https://github.com/William-io/digital-certificates/blob/main/1638557969%5B4562%5D.pdf)
-2. [MoveOn, Soft skills](https://github.com/William-io/digital-certificates/blob/main/Certificado%20Freshers%20-William%20Silva%5B1260%5D.pdf)
-3. [Ciência de Dados](https://github.com/William-io/digital-certificates/blob/main/certificate-introducao-a-ciencia-de-dados-30-61081f20e32fc3306067d375.pdf)
+1. [Impacta, Full-Stack](https://github.com/William-io/digital-certificates/blob/main/1638557969%5B4562%5D.pdf) - **Concluído em: 02/12/2021**
+2. [MoveOn, Soft skills](https://github.com/William-io/digital-certificates/blob/main/Certificado%20Freshers%20-William%20Silva%5B1260%5D.pdf) - **Concluído em: Outubro de 2021**
+3. [Ciência de Dados](https://github.com/William-io/digital-certificates/blob/main/certificate-introducao-a-ciencia-de-dados-30-61081f20e32fc3306067d375.pdf) - **Concluído em: 01/12/2021**
 
 </details>
