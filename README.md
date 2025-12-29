@@ -1,7 +1,6 @@
 ### Lista de certificados de conclusão
 
-
-<details open>
+<details id="alura" open>
 <summary><strong>Alura</strong></summary>&nbsp
 
 | Data de conclusão | Link do certificado |
@@ -21,8 +20,7 @@
 
 </details>
 
-
-<details id="balta-io-formacao-aspnet">
+<details id="balta-io-formacao-aspnet" open>
 <summary><strong>Balta.io - Formação ASP.NET</strong></summary>&nbsp
 
 | Data de conclusão                        | Link do certificado                                                                                                                                          |
@@ -40,14 +38,14 @@
 | 06/08/2021 até 08/12/2021                | [Criando um TodoApp com ASP.NET Core, Firebase, Angular e Flutter](https://balta.io/certificados/52c5f8f0-9456-4b7d-8cf9-d943f8ed74cc)                      |
 | 26/11/2021 até 29/11/2021                | [Fundamentos de Entity](https://balta.io/certificados/cb75db37-029a-4d50-9eba-657c97569b29)                                                                  |
 | 22/10/2021 até 24/11/2021                | [API node](https://balta.io/certificados/d6b8aaa1-2d27-4a17-b141-fb1e571a1cdc)                                                                              |
-| 17/11/2021 até 27/11/2021                | [balta.io Dev Experience 2021](https://baltaio.blob.core.windows.net/static/images/experience/2021/certificates/5f0dc0af-4099-7219-6c1a-a27b00000000-experience.png) |
+| 17/11/2021 até 27/11/2021                | [balta. io Dev Experience 2021](https://baltaio.blob.core.windows.net/static/images/experience/2021/certificates/5f0dc0af-4099-7219-6c1a-a27b00000000-experience.png) |
 | 28/05/2024 até 28/05/2024                | [Fundamentos do Blazor com .NET 8](https://balta.io/certificados/6bf6ba8e-1330-4e54-a05a-d7e73616c7cb)                                                      |
 | 28/05/2024 até 30/05/2024                | [Progressive Web Apps com Blazor Web Assembly](https://balta.io/certificados/dcaf19fc-107b-4d63-ae93-88a5abd9bcfc)                                          |
 | 25/02/2025 até 27/02/2025                | [Arquitetura Limpa com .NET](https://balta.io/certificados/f5574f7d-3f27-489d-9da1-624a8710519b)                                                            |
 
 </details>
 
-<details open>
+<details id="udemy" open>
 <summary><strong>Udemy</strong></summary>&nbsp
 
 | Data de conclusão | Link do certificado |
@@ -61,7 +59,7 @@
 
 </details>
 
-<details open>
+<details id="pluralsight" open>
 <summary><strong>Pluralsight</strong></summary>&nbsp
 
 | Data de conclusão | Link do certificado |
@@ -74,7 +72,7 @@
 
 </details>
 
-<details open>
+<details id="outros" open>
 <summary><strong>Outros</strong></summary>&nbsp
 
 1. [Impacta, Full-Stack](https://github.com/William-io/digital-certificates/blob/main/1638557969%5B4562%5D.pdf)
