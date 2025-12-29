@@ -22,7 +22,7 @@
 </details>
 
 
-<details open>
+<details id="balta-io-formacao-aspnet">
 <summary><strong>Balta.io - Formação ASP.NET</strong></summary>&nbsp
 
 | Data de conclusão                        | Link do certificado                                                                                                                                          |
