@@ -11,7 +11,7 @@
 
 </details>
 
-<details open>
+<details id="milan-jovanovic-tech" open>
 <summary><strong>Milan Jovanović - TECH</strong></summary>&nbsp
 
 | Data de conclusão | Link do certificado |
